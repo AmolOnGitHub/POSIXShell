@@ -1,0 +1,15 @@
+reveal -la > newfile.txt
+rm -rf newfile.txt
+reveall > newfile.txt
+rm -rf newfile.txt
+wc < log.txt > a.txt | cat > b.txt
+wc &
+kill 41389
+
+echo "hello world" > newfile.txt
+wc < newfile.txt > newfile.txt
+sleep 10 &
+gedit
+mk_hop test
+mk_hop testtest
+clear
